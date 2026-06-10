@@ -62,3 +62,4 @@ class BasePage{
  * @module BasePage
  */
 export default BasePage;
+// test
